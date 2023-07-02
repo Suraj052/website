@@ -4,5 +4,5 @@ Made using HTML, CSS & Javascript.
 
 
 ##WEBISTE LINK
-[CLICK HERE]{https://suraj052.github.io/website/}
+[CLICK HERE](https://suraj052.github.io/website/)
 
